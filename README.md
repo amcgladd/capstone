@@ -3,8 +3,10 @@
 One Paragraph of project description goes here
 
 ## Paper sketch
+![paper sketch](https://github.com/amcgladd/capstone/blob/master/readme_assets/paper-sketch1.jpg)
 
 ## Sketch Mockup
+![sketch mockup](https://github.com/amcgladd/capstone/blob/master/readme_assets/wifeframe.png)
 
 ## Getting Started
 
