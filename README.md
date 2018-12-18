@@ -8,6 +8,9 @@ One Paragraph of project description goes here
 ## Sketch Mockup
 ![sketch mockup](https://github.com/amcgladd/capstone/blob/master/readme_assets/wifeframe.png)
 
+## Version 1
+![prototype pic](https://github.com/amcgladd/capstone/blob/master/readme_assets/prototype-pic.jpg)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
