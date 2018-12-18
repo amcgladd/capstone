@@ -39,10 +39,8 @@ export default class HelloWorldSceneAR extends Component {
 
         <ViroARImageMarker target={"burjtrigger"}>
 
-
         <ViroSpotLight innerAngle={5} outerAngle={90} direction={[0,-1,-.2]}
           position={[0, 3, 1]} color="#FFFFFF" castsShadow={true} />
-
 
           <Viro3DObject
             source={require('./res/burj.obj')}
@@ -74,11 +72,6 @@ export default class HelloWorldSceneAR extends Component {
 }
 
 ViroARTrackingTargets.createTargets({
-  book : {
-    source : require('./res/book.jpg'),
-    orientatin: "Up",
-    physicalWidth : 0.18 // real world width in meters
-  },
   burjtrigger: {
     source : require('./res/burj/burj-trigger.jpg'),
     orientation: "Up",
